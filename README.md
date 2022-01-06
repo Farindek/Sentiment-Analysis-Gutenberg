@@ -1,3 +1,5 @@
+![great](https://user-images.githubusercontent.com/67712050/148384754-e9a550a8-74ef-460f-a48a-501d1bf2bad8.jpeg)
+![rail](https://user-images.githubusercontent.com/67712050/148384758-3b895923-6200-458f-bb68-158da0f12226.jpeg)
 # Sentiment-Analysis-Gutenberg
 A comparison between "The Railway Children and Great Expectation" of the Gutenberg Collection. Analysing the frequency of sentiment of the books on R markdown
 ---
@@ -322,3 +324,6 @@ word_cors %>%
   geom_node_text(aes(label = name), repel = TRUE) +
   theme_void()
 ```
+References
+Tidyverse by O'riley
+Google
